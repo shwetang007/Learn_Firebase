@@ -1,0 +1,129 @@
+/* Reset default margin, padding, and set font for the entire document */
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', 'sans-serif';
+    background-color: #f4f1ee59;
+    /* Set a light background color */
+    user-select: none;
+    /* Disable text selection */
+}
+
+/* Style the main container */
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+    margin: 50px auto;
+    /* Center the container horizontally and add margin at the top */
+    padding: 30px;
+    /* Add padding inside the container */
+    border-radius: 12px;
+    /* Round the corners of the container */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    /* Add a subtle shadow to the container */
+    background-color: #ffffff;
+    /* Set a white background color */
+}
+
+/* Style the image within the container */
+img {
+    width: 150px;
+    margin: 0 auto;
+    /* Center the image horizontally */
+    border-radius: 50%;
+    /* Round the corners of the image */
+}
+
+/* Style the input field */
+input {
+    color: #dc3545;
+    /* Set text color to red */
+    background-color: #f8d7da;
+    /* Set light red background color */
+    border: 2px solid #dc3545;
+    /* Set red border */
+    padding: 15px;
+    /* Add padding inside the input field */
+    border-radius: 8px;
+    /* Round the corners of the input field */
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 15px 0;
+    /* Add margin at the top and bottom of the input field */
+    transition: border-color 0.3s ease-in-out;
+    /* Add smooth transition for border color change */
+}
+
+/* Style the button */
+button {
+    color: #ffffff;
+    /* Set text color to white */
+    background-color: #007bff;
+    /* Set blue background color */
+    border: 2px solid #007bff;
+    /* Set blue border */
+    padding: 15px;
+    /* Add padding inside the button */
+    border-radius: 8px;
+    /* Round the corners of the button */
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    /* Change cursor to pointer on hover */
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+    /* Add smooth transitions for background color and scaling */
+}
+
+/* Add hover and focus effects for the button */
+button:hover,
+button:focus {
+    background-color: #0056b3;
+    /* Darker blue on hover/focus */
+    transform: scale(1.05);
+    /* Slightly scale up the button on hover/focus */
+}
+
+/* Style the unordered list */
+ul {
+    list-style-type: none;
+    /* Remove default list styling */
+    padding: 0;
+    /* Remove default padding for the list */
+    display: flex;
+    /* Use flex display for the list items */
+    flex-wrap: wrap;
+    /* Allow list items to wrap to the next line */
+    gap: 10px;
+    /* Add a small gap between list items */
+}
+
+/* Style the list items */
+ul li {
+    font-size: 18px;
+    background-color: #ffffff;
+    /* Set white background color */
+    padding: 15px;
+    /* Add padding inside the list items */
+    border-radius: 8px;
+    /* Round the corners of the list items */
+    flex-grow: 1;
+    /* Allow list items to grow equally in size */
+    text-align: center;
+    /* Center the text within list items */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    /* Add a subtle shadow to list items */
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+    /* Add smooth transitions for background color and scaling */
+}
+
+/* Add hover effect for the list items */
+ul li:hover {
+    background-color: #e0f3ff;
+    /* Light blue on hover */
+    cursor: pointer;
+    /* Change cursor to pointer on hover */
+    transform: translateY(-3px);
+    /* Move the list item slightly up on hover */
+}
