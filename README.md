@@ -23,9 +23,13 @@ Interactive Shopping Assistant: Experience a virtual shopping assistant to guide
 
 # Project Structure 📁
 index.html: Main HTML file for the Shopping Cart App.
+
 index.css: Stylesheet for styling the app.
+
 index.js: JavaScript file for app logic and Firebase integration.
+
 function.js: External JavaScript file for additional functions.
+
 img/: Directory containing images used in the project.
 
 # Firebase Integration🌐
