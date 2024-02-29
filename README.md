@@ -32,6 +32,8 @@ function.js: External JavaScript file for additional functions.
 
 img/: Directory containing images used in the project.
 
+Files/: Directory containing Favicon_images as well as all the code Files used in the project.
+
 # Firebase Integration🌐
 The project utilizes Firebase for real-time database functionalities.
 Update your Firebase configuration in index.js for seamless integration.
