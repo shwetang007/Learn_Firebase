@@ -3,7 +3,7 @@ THIS REPOSITORY TELLS HOW SHWETANG HAD AN INDEPTH ANALYSIS OF THE  GOOGLE FIREBA
 
 
 
-# Shopping Cart App- Swifcart🛒
+# Shopping Cart App- Swiftcart🛒
 SwiftCart is a cutting-edge web-friendly shopping cart application that seamlessly combines an intuitive user interface with robust e-commerce functionalities. With a responsive design, secure checkout process, and personalized user accounts, SwiftCart offers customers a streamlined and secure online shopping experience. Its innovative features include real-time inventory management, smart recommendations, and a user-friendly interface, ensuring both customer satisfaction and operational efficiency. SwiftCart is poised to elevate our online retail presence, providing a modern and efficient solution for today's digital shoppers.
 
 # Importance--Daily Necessaties:🌟
