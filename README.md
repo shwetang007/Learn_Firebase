@@ -41,7 +41,7 @@ Update your Firebase configuration in index.js for seamless integration.
 # License📜
 This project is licensed under the Apache License 2.0. Feel free to use, modify, or distribute the code.
 
-# HERRE IS THE LINK TO THE SWIFTCART-Shopping Cart Application:
+# HERE IS THE LINK TO THE SWIFTCART-Shopping Cart Application:
 
 🔗🔗 -https://swiftcartapp.netlify.app/
 
